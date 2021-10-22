@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>                          [COLOR tomato][B]T E L V I S I O N    [SPORTDEVIL][/B][/COLOR]   </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Do not host any these streams"
+    line2 = "That can be found online"
+    line3 = "Copyrigth violation issues to the company" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]==========================================================================================[/COLOR][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://main.txt</externallink>
+<thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+ 
+<item>
+<title>       [COLOR silver][B]Do not host any these streams,that can be found online[/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Do not host any these streams"
+    line2 = "That can be found online"
+    line3 = "Copyrigth violation issues to the company" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex><thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail><fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>                      [COLOR silver][B]Copyrigth violation issues to the company[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>                                     [COLOR silver][B]That host these files[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]==========================================================================================[/COLOR][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://main.txt</externallink>
+<thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>BBC 1</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yyqrvu1433940918.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>BBC 2</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ysqvyr1433945409.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>BBC 3</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-3.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/urytuu1433945420.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>BBC 4</title>
+<sportsdevil>http://www.shadow-net.org/channels/BBC-4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vywtsv1433945431.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rqyvqs1433964177.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV+1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wpttqr1433964186.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV2</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xpryxw1442161772.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV2+1</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uwruwv1442161787.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV3</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-3.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wuwupt1433964241.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV3+1</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-3plus1-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rvvvsu1433964249.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITV4</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-4-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qquuqx1433964264.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>ITVBe</title>
+<sportsdevil>http://robssatellitetv.com/watch-itv-4-plus-1-live-online-stream-watch-uk-tv-free.htm</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yuyutr1435140519.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Channel 4</title>
+<sportsdevil>http://www.shadow-net.org/channels/Channel-4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sutxrw1480458109.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>E4</title>
+<sportsdevil>http://www.shadow-net.org/channels/E4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xqvvys1433964011.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>More4</title>
+<sportsdevil>http://www.shadow-net.org/channels/More-4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tqrsyv1433952947.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Channel 5</title>
+<sportsdevil>http://www.shadow-net.org/channels/Channel-5.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uxputq1467822824.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>5*</title>
+<sportsdevil>http://www.shadow-net.org/channels/5Star.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tyqxut1455552884.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>5 Usa</title>
+<sportsdevil>http://www.shadow-net.org/channels/5USA.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/svvxsp1480593607.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Quest</title>
+<sportsdevil>http://www.shadow-net.org/channels/Quest.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/spyytx1433780344.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Really</title>
+<sportsdevil>http://www.shadow-net.org/channels/Really.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wrxwtw1433787744.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Yesterday</title>
+<sportsdevil>http://www.shadow-net.org/channels/Yesterday.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sytpwv1433781204.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Gold</title>
+<sportsdevil>http://www.shadow-net.org/channels/Gold.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rsvvvy1433964138.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Sky One</title>
+<sportsdevil>http://www.shadow-net.org/channels/Sky-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rxpsyu1436174216.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Atlantic</title>
+<sportsdevil>http://www.shadow-net.org/channels/Sky-Atlantic.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uvtxpt1433509962.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>E!</title>
+<sportsdevil>http://www.shadow-net.org/channels/E%21-Entertainment.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ysxrxt1433524933.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<sportsdevil>http://www.shadow-net.org/channels/Comedy-Central-UK.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wvsprt1433941265.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>RTE One</title>
+<sportsdevil>http://www.shadow-net.org/channels/RTE-One.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sysrru1458515319.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>RTE Two</title>
+<sportsdevil>http://www.shadow-net.org/channels/RTE-Two.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/syptrs1458515379.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>History</title>
+<sportsdevil>http://www.liveonlinetv247.info/history.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Nat Geo</title>
+<sportsdevil>http://www.shadow-net.org/channels/National-Geographic-UK.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rquqpy1436893327.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Nat Geo Wild</title>
+<sportsdevil>http://www.shadow-net.org/channels/Nat-Geo-Wild-UK.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ypptyq1433943719.png/medium</thumbnail>
+<fanart>http://fullhdpictures.com/wp-content/uploads/2016/03/Nat-Geo-Wild-Wallpaper-HD.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery Uk</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-UK.html</sportsdevil>
+<referer>no</referer>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+<thumbnail>https://www.thelogodb.com/images/media/logo/usvxwq1433945505.png/medium</thumbnail>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-Science-UK.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery Ivestigation</title>
+<sportsdevil>http://www.shadow-net.org/channels/Discovery-Investigation-US.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vtvtuy1433779753.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>RT</title>
+<sportsdevil>http://hastalavista.info/channels/RTDoc-tvchannel.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uyyvps1434018285.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<sportsdevil>http://www.shadow-net.org/channels/Disney-Channel-UK.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Disney XD</title>
+<sportsdevil>http://www.liveonlinetv247.info/disneyxd.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Junior</title>
+<sportsdevil>http://www.liveonlinetv247.info/disneyjunior.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xpxwrx1471035181.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<sportsdevil>http://www.liveonlinetv247.info/cartoonnetwork.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Film4</title>
+<sportsdevil>http://www.shadow-net.org/channels/Film-4.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tuqqww1433969747.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Dave</title>
+<sportsdevil>http://www.shadow-net.org/channels/Dave.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xstvrx1433969695.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>CBS Drama</title>
+<sportsdevil>http://www.shadow-net.org/channels/CBS-Drama.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uqsyvt1433964820.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>CBS Reality</title>
+<sportsdevil>http://www.shadow-net.org/channels/CBS-Reality.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tywuvw1434287895.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Animal Planet US</title>
+<sportsdevil>http://www.shadow-net.org/channels/Animal-Planet-US.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Syfy</title>
+<sportsdevil>http://www.shadow-net.org/channels/Syfy.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://img.zanda.com/item/33090230000003/1024x768/SyFy_logo.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports News</title>
+<sportsdevil>http://mamahd.com/sky-sports-1-live-free-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yyuppq1433965339.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Sky Sports 1</title>
+<sportsdevil>http://mamahd.com/sky-sports-1-live-free-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<sportsdevil>http://mamahd.com/sky-sports-2-live-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<sportsdevil>http://mamahd.com/sky-sports-3-live-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vtusxx1433965268.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<sportsdevil>http://mamahd.com/sky-sports-4-live-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Sky Sports 5</title>
+<sportsdevil>http://mamahd.com/sky-sports-5-live-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>Sky Sports F1</title>
+<sportsdevil>http://mamahd.com/sky-sports-formula-1-live-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports News</title>
+<sportsdevil>http://mamahd.com/sky-sports-1-live-free-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/yyuppq1433965339.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sports 1</title>
+<sportsdevil>http://mamahd.com/bt-sport-1-live-stream1-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/ruprqp1433360902.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sports 2</title>
+<sportsdevil>http://mamahd.com/bt-sport-2-live-stream-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+
+<item>
+<title>BT Europe</title>
+<sportsdevil>http://cricfree.sc/bt-sport-europe-live-stream-free</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/9/91/Bt-sport-europe-logo.png/revision/latest?cb=20150727151842</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>BT ESPN</title>
+<sportsdevil>http://cricfree.sc/espn-live-stream-btsports</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Box Nation</title>
+<sportsdevil>http://www.shadow-net.org/channels/BoxNation.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vuvwsr1433336020.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>NFL Network</title>
+<sportsdevil>http://mamahd.com/nfl-network-live-stream-free-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>NBC Sports</title>
+<sportsdevil>http://www.shadow-net.org/channels/NBC-Sports-Netw..html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>MUTV</title>
+<sportsdevil>http://cdn06.1live.tv/manchester-united-mutv-live-streaming.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://dieslblog.files.wordpress.com/2013/01/manu_logo.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>LFC</title>
+<sportsdevil>http://www.liveonlinetv247.info/lfctv.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/529559315049238528/_Y6PqLxc.jpeg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Euro sports 1</title>
+<sportsdevil>http://www.shadow-net.org/channels/British-Eurosport-1.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Euro sports 2</title>
+<sportsdevil>http://www.shadow-net.org/channels/British-Eurosport-2.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xvuxxt1474667338.png/medium</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Moto GP</title>
+<sportsdevil>http://www.shadow-net.org/channels/Moto-GP.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://fast-dsign.com/wp-content/uploads/2016/03/wallpapers.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Motors TV</title>
+<sportsdevil>http://www.shadow-net.org/channels/Motors-TV.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/2000px-Motors_TV_logo.svg.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>WWE Network</title>
+<sportsdevil>http://live-sports.crichd.cc/wwe-network-live-streaming</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://wrestlingadvisor.com/wp-content/uploads/2014/02/wwe_network_logo.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 1HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports1.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.livetv21.net/wp-content/uploads/2016/02/Bein-Sports-1-HD.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 2HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports2.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://livetv.karoomed.net/appicons/bein2.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 3HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports3.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://2.bp.blogspot.com/-8TBXWvPtIJ8/U5LQzr6fx9I/AAAAAAAAAKI/RN8LcsGO2-M/s1600/bein+3.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 4HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports4.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://i.imgur.com/rl1yzcc.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 5HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports5.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://scrat.hellocoton.fr/img/classic/5-regarder-bein-sport-5-live-14681250.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 6HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports6.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://scrat.hellocoton.fr/img/classic/regarder-bein-sport-6hd-live-gratuit-sur-internet-10768628.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 7HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports7.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.arabe-media.com/tv/img208.gif</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 8HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports8.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://shqipal.altervista.org/storage/tv/bein8.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 10HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports10.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.liveonlinetv247.info/images/beinsports10.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 11HD</title>
+<sportsdevil>http://www.liveonlinetv247.info/beinsports11.php</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://www.shqipal.altervista.org/storage/tv/bein11.png</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
+
+<item>
+<title>Bein Sports 12HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/Bein-Sports-12.html</sportsdevil>
+<referer>no</referer>
+<thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-12hd-live-regarder-bein-sport-12-hd-en-direct-gratuit-11334158.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+</item>
