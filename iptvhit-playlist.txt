@@ -1,0 +1,5 @@
+http://dinka-iptv.com:8000/get.php?username=berkege_113139&password=19936316&type=m3u
+EPG: http://dinka-iptv.com:8000/xmltv.php?username=berkege_113139&password=19936316
+
+https://raw.githubusercontent.com/freearhey/iptv/master/channels/do.m3u
+
