@@ -3,6 +3,8 @@ EPG: http://dinka-iptv.com:8000/xmltv.php?username=berkege_113139&password=19936
 
 https://raw.githubusercontent.com/freearhey/iptv/master/channels/do.m3u
 
+https://raw.githubusercontent.com/carisma64/iptv/main/mayimbe.m3u
+
 TeleMicro
 https://itunes.apple.com/us/app/iptv-player-play-m3u-playlist/id1303327384?ls=1
 
