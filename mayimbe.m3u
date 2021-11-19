@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Tele Universo" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="",Tele Universo
-https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c91ce1dd306353c73369724321e9e5d3.webp
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="Tele Micro" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="",Tele Micro (480p) [Not 24/7]
 https://itunes.apple.com/us/app/iptv-player-play-m3u-playlist/id1303327384?ls=1
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="",ORBIT TV (480p) [Not 24/7]
