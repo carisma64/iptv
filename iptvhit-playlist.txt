@@ -14,6 +14,10 @@ https://github.com/carisma64/iptv.git
 https://raw.githubusercontent.com/carisma64/iptv/main/mayimlist.m3u
 https://raw.githubusercontent.com/carisma64/iptv/main/mayimbe.m3u
 
+https://bit.ly/32tzBEV
+
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+
 https://github.com/carisma64/iptv/blob/main/mayimbe.m3u
 https://github.com/carisma64/iptv/blob/7d36379b9e9a43453b8e0c4e52564b1bf324e554/mayimbe.m3u
 
